@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smartcooking</string>
+    <string name="img_of_recipe">img of recipe</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="add_your_ingredients">Add your ingredients</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="or">OR</string>
+    <string name="use_voice_option_to_add_your_ingredients">Use voice option to add your ingredients</string>
+    <string name="listening">Listening...</string>
+    <string name="no_ingredients_try_to_add_some_ingredients">No ingredients, try to add some ingredients</string>
+    <string name="get_recipes">Get Recipes</string>
+    <string name="speak">speak</string>
+    <string name="type_your_ingredient">Type your ingredient</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clear_ingredients">Clear Ingredients</string>
+    <string name="menu_error_message">Please enter ingredients to view recipes</string>
+    <string name="addItemToShoppingCartQuestion">Do you want to add the item to the shopping cart?</string>
+    <string name="btnAddShoppingCartText">Add to Shopping Cart</string>
+    <string name="btnCancelBottomSheet">Cancel</string>
+    <string name="pantryIntroductionText">Hey, \n Let\'s get started</string>
+    <string name="clearIngredientText">ClEAR INGREDIENT</string>
+    <string name="btnSearchRecipesText">SEARCH FOR RECIPES</string>
+    <string name="recipeTitleText">Recipe Title</string>
+    <string name="InstructionText">TextView</string>
+    <string name="healthyText">Healthy</string>
+    <string name="add_item_btn">Add item</string>
+    <string name="btn_text_add">Add</string>
+    <string name="btn_text_clear">Clear</string>
+    <string name="timer_text">Timer</string>
+    <string name="favourites_error_message">Please select recipes for Favourites to view Favourites</string>
+</resources>
